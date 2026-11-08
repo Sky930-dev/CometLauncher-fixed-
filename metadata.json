@@ -1,0 +1,6 @@
+{
+  "name": "Comet Launcher",
+  "description": "Futuristic Liquid Glass Android launcher with translucent widgets, floating glass dock, dynamic wallpapers, and fluid animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
