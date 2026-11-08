@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651489824213",
+    "project_id": "gen-lang-client-0131201203",
+    "storage_bucket": "gen-lang-client-0131201203.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651489824213:android:44e52cb21a2922c616015c",
+        "android_client_info": {
+          "package_name": "com.aistudio.cometlauncher.vpxnrt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5nfqu4aOYLTWTiI1eEnEytIcQwHaq7qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
